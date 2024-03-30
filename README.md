@@ -15,7 +15,7 @@
 - 🏡 2 years living in Montenegro 🌄🌊, considering relocation to Serbia
 - 😍 Addicted to nature 🏞️ and cats 🐱
 
-<table border="0">
+<table style="border-collapse: collapse;">
   <tr>
     <td>
       <h3 align="left">Languages</h3>
