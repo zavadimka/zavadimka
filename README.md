@@ -1,10 +1,3 @@
-<style>
-  table {
-    border-collapse: collapse;
-    border: none;
-  }
-
-</style>
 <h1 align="center">Hi there, I'm Dmitry! 👋</h1>
 <h3 align="center">Junior AQA Engineer</h3>
 
