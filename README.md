@@ -3,7 +3,7 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://t.me/dmzjb" target="blank"><img align="center" src="https://raw.githubusercontent.com/zavadimka/zavadimka/5ad5101dd4ba9114897106ea8b86da0ca4aa22c8/icons/Telegram.svg" alt="zavadimka" height="30" width="30" /></a>
+<a href="https://t.me/zavadimka" target="blank"><img align="center" src="https://raw.githubusercontent.com/zavadimka/zavadimka/5ad5101dd4ba9114897106ea8b86da0ca4aa22c8/icons/Telegram.svg" alt="zavadimka" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/d-zavada" target="blank"><img align="center" src="https://raw.githubusercontent.com/zavadimka/zavadimka/5ad5101dd4ba9114897106ea8b86da0ca4aa22c8/icons/Linkedin.svg" alt="zavadimka" height="40" width="40" /></a>
 <a href="mailto:zavada.dmitri@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/zavadimka/zavadimka/1759bc2c04aa823a855d94a64ce48ddfc7eac2c9/icons/Gmail.svg" alt="zavadimka" height="35" width="35" /></a>
 </p>
