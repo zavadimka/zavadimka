@@ -8,7 +8,7 @@
 <a href="mailto:zavada.dmitri@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/zavadimka/zavadimka/1759bc2c04aa823a855d94a64ce48ddfc7eac2c9/icons/Gmail.svg" alt="zavadimka" height="35" width="35" /></a>
 </p>
 
-- 🌱 I’m currently learning Java test automation: Java, JUnit5, Gradle, Selenide
+- 🌱 I’m currently learning Java test automation: [Java](https://www.java.com/) + [JUnit5](https://junit.org/junit5/) + [Gradle](https://gradle.org/) + [Selenide](https://selenide.org/) + [Allure TestOps](https://qameta.io)
 - 🔎 I’m looking for a job as a Junior AQA Engineer
 - 📫 How to reach me: [zavada.dmitri@gmail.com](mailto:zavada.dmitri@gmail.com)
 - 🌍 I speak Russian (native), English (B2), Serbian (B2)
@@ -37,6 +37,8 @@
         <a href="https://selenide.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/zavadimka/zavadimka/90aba27358b0550523685f7084b7cb2264586632/icons/Selenide.svg" alt="selenide" height="30" width="30"/> </a> 
       </p>
       <p align="left">
+        <a href="https://allurereport.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/zavadimka/qa-guru-java-lesson-17-allure-testops-homework/9497fcfc09c102cdb997fc8b944e23d735f5902b/media/icons/Allure_Report.svg" alt="allurereport" height="30" width="30"/> </a> 
+        <a href="https://qameta.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/zavadimka/qa-guru-java-lesson-17-allure-testops-homework/9497fcfc09c102cdb997fc8b944e23d735f5902b/media/icons/Allure_TestOps.svg" alt="alluretestops" height="30" width="30"/> </a> 
         <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/zavadimka/zavadimka/d7752c5e453307d9604abf6a8e76155f9338a14d/icons/Postgresql.svg" alt="postgres" height="30" width="30"/> </a> 
         <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/zavadimka/zavadimka/d7752c5e453307d9604abf6a8e76155f9338a14d/icons/Confluence.svg" alt="confluence" height="30" width="30"/> </a> 
         <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/zavadimka/zavadimka/d7752c5e453307d9604abf6a8e76155f9338a14d/icons/Jira.svg" alt="jira" height="30" width="30"/> </a> 
